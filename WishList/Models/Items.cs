@@ -6,7 +6,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace WishList.Models
 {
-    public class Item
+    public class Items
     {
         public int Id { get; set; }
         [Required]
